@@ -1,0 +1,5 @@
+1. You should not move to next topic unless I tell, you have to cover each aspect of that topic and follow the System Level Instruction that I gave to this Notebook and ask for my permission to go to next topic.
+
+2. For the coding challenges once I'm done with the solutions, you have to ask me to give you so that you can asses my code and give your feedback.
+
+3. If some doubt occurs in between a topic, you have to clear that out first and then only move forward.

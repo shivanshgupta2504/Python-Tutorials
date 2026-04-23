@@ -1,3 +1,8 @@
 pydantic
 pydantic[email]
 fastapi[standard]
+uvicorn
+python-dotenv
+fastapi-users[sqlalchemy]
+imagekitio
+aiosqlite
