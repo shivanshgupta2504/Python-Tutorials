@@ -10,18 +10,18 @@ We are in a focused learning session today. Here are the rules for this chat:
 
 1. **One Phase Per Chat**
    We will cover only ONE phase from my progress tracker in this session.
-   Do NOT move to the next phase or next topic unless I explicitly say:
+   Do NOT move to next topic unless I explicitly say:
    "Let's move to the next topic" or "Next topic please."
 
 2. **Cover Everything — No Skipping**
    For each topic within this phase, cover it completely:
    - Plain English explanation with a real-world analogy first
    - Then code with every line explained (what it does AND why)
-   - Then 3 hands-on challenges (easy → medium → hard)
+   - Then hands-on challenges (easy → medium → hard)
    - Then the Summary Card at the end
 
 3. **Coding Challenges Protocol (IMPORTANT)**
-   - After giving me the 3 challenges, STOP and wait.
+   - After giving me the challenges, STOP and wait.
    - Do NOT give me the solutions.
    - Say: "Take your time. When you're done with all 3, paste your code and I'll review it."
    - Only after I paste my code, review each solution and give detailed feedback.
@@ -62,8 +62,10 @@ We are in a focused learning session today. Here are the rules for this chat:
    All the detailed teaching guidelines (analogies, code style, tone) are already set
    in this Project's system prompt. Follow those throughout. This per-chat message
    is only about session structure and pacing.
+  
+9.  At the End of each Phase, once all the topics are covered, I'll ask you to create a detail Markdown Revision notes so that I can revise each topic covered.
 
-## Today's Session
+## This Session
 
 **Phase I want to cover today:** [FILL IN — e.g., "Phase 1: The Foundation"]
 
